@@ -1,0 +1,11 @@
+{
+  "name": "VAULT BENDER",
+  "short_name": "VAULT BENDER",
+  "description": "Local-first crypto portfolio and holding-period tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ddd6cc",
+  "theme_color": "#ddd6cc",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

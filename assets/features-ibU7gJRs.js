@@ -1,0 +1,1 @@
+function e(){return!0}function t(e){if(!e.feature||e.enabled!==!0||e.now-e.lastAutoAt<6e5)return!1;if(e.spotFetchedAt){let t=e.now-Date.parse(e.spotFetchedAt);if(t>=0&&t<6e5)return!1}return!0}export{t as n,e as t};
